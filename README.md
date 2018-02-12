@@ -15,3 +15,23 @@ yarn add with-coffee
 ```
 
 Then import it in your project in which way you like.
+
+## Badge!
+
+![with-coffee](https://img.shields.io/badge/made%20with-%E2%98%95%EF%B8%8F%20coffee-yellow.svg)
+
+```md
+![with-coffee](https://img.shields.io/badge/made%20with-%F0%9F%92%A7%20water-blue.svg)
+```
+
+## Not coffee? With Water!
+
+![with-coffee](https://img.shields.io/badge/made%20with-%F0%9F%92%A7%20water-blue.svg)
+
+```md
+![with-coffee](https://img.shields.io/badge/made%20with-%E2%98%95%EF%B8%8F%20coffee-yellow.svg)
+```
+
+## Contribute! 💌
+
+Have a new idea? Fix? Make an issue or PR and let's discuss it. You're awesome!
