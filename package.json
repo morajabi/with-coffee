@@ -1,7 +1,7 @@
 {
   "name": "with-coffee",
-  "description": "Add `Made with ☕️ with 💝` to console in production",
-  "version": "1.0.2",
+  "description": "Add `Made with ☕️ & 💝` to console in production",
+  "version": "1.0.3",
   "main": "index.js",
   "repository": "git@github.com:morajabi/with-coffee.git",
   "author": "Mohammad <hi@morajabi.me> (http://morajabi.me/)",
