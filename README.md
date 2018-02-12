@@ -49,6 +49,6 @@ Have a new idea? Fix? Make an issue or PR and let's discuss it. You're awesome!
 
 ## RIP Coffee
 
-![My Own Cup of Coffee](https://user-images.githubusercontent.com/12202757/36093744-d971bd20-1000-11e8-9e60-705b46a46af1.jpg)
+![My Own Cup of Coffee is grateful!](https://user-images.githubusercontent.com/12202757/36096082-0a43e514-100a-11e8-9d2d-4d3ff0f5aa1f.jpg)
 
 > Nikon D5300 / 35mm f/1.8G Lens / Edited a bit with Photos app
