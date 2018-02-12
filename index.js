@@ -4,5 +4,5 @@ if (
     process.env &&
     process.env.NODE_ENV === 'production')
 ) {
-  console.log(`%c Made with ☕️ coffee & 💝`, 'color: lightgreen;')
+  console.log('%c Made with ☕️ coffee & 💝', 'color: lightgreen;')
 }
