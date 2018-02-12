@@ -23,7 +23,7 @@ Then import it in your project in which way you like.
 ![with-coffee](https://img.shields.io/badge/made%20with-%E2%98%95%EF%B8%8F%20coffee-yellow.svg)
 
 ```md
-![with-coffee](https://img.shields.io/badge/made%20with-%F0%9F%92%A7%20water-blue.svg)
+![with-coffee](https://img.shields.io/badge/made%20with-%E2%98%95%EF%B8%8F%20coffee-yellow.svg)
 ```
 
 ## Not coffee? With Water!
@@ -31,7 +31,7 @@ Then import it in your project in which way you like.
 ![with-water](https://img.shields.io/badge/made%20with-%F0%9F%92%A7%20water-blue.svg)
 
 ```md
-![with-water](https://img.shields.io/badge/made%20with-%E2%98%95%EF%B8%8F%20coffee-yellow.svg)
+![with-water](https://img.shields.io/badge/made%20with-%F0%9F%92%A7%20water-blue.svg)
 ```
 
 ## Only love?
