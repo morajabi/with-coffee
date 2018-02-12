@@ -34,6 +34,14 @@ Then import it in your project in which way you like.
 ![with-water](https://img.shields.io/badge/made%20with-%F0%9F%92%A7%20water-blue.svg)
 ```
 
+## Drink Beer, Save Water!
+
+![with-beer](https://img.shields.io/badge/made%20with-%F0%9F%8D%BA%20beer-yellow.svg)
+
+```md
+![with-beer](https://img.shields.io/badge/made%20with-%F0%9F%8D%BA%20beer-yellow.svg)
+```
+
 ## Only love?
 
 Ugh, I got you covered:
