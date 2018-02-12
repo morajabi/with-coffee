@@ -51,4 +51,4 @@ Have a new idea? Fix? Make an issue or PR and let's discuss it. You're awesome!
 
 ![My Own Cup of Coffee is grateful!](https://user-images.githubusercontent.com/12202757/36096082-0a43e514-100a-11e8-9d2d-4d3ff0f5aa1f.jpg)
 
-> Nikon D5300 / 35mm f/1.8G Lens / Edited a bit with Photos app
+> Nikon D5300 / 35mm f/1.8G Lens / Edited a bit with Photos app / Graphics added with the lovely [Figma](https://figma.com)
