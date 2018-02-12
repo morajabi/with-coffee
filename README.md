@@ -26,10 +26,19 @@ Then import it in your project in which way you like.
 
 ## Not coffee? With Water!
 
-![with-coffee](https://img.shields.io/badge/made%20with-%F0%9F%92%A7%20water-blue.svg)
+![with-water](https://img.shields.io/badge/made%20with-%F0%9F%92%A7%20water-blue.svg)
 
 ```md
-![with-coffee](https://img.shields.io/badge/made%20with-%E2%98%95%EF%B8%8F%20coffee-yellow.svg)
+![with-water](https://img.shields.io/badge/made%20with-%E2%98%95%EF%B8%8F%20coffee-yellow.svg)
+```
+
+## Only love?
+
+Ugh, I got you covered:
+![with-love](https://img.shields.io/badge/made%20with-%F0%9F%92%8C-red.svg)
+
+```md
+![with-love](https://img.shields.io/badge/made%20with-%F0%9F%92%8C-red.svg)
 ```
 
 ## Contribute! 💌
